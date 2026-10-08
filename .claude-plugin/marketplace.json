@@ -1,6 +1,9 @@
 {
   "name": "damsleth",
-  "owner": { "name": "Carl Joakim Damsleth" },
+  "owner": {
+    "name": "Carl Joakim Damsleth"
+  },
+  "description": "Damsleth's Claude Code mods, skills and plugins",
   "plugins": [
     {
       "name": "clean-view",

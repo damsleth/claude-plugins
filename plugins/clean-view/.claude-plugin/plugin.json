@@ -1,1 +1,7 @@
-{ "name": "clean-view", "version": "0.1.0", "description": "Hide diffs and tool output on screen; /clean toggles", "types": "./types/index.d.ts" }
+{
+  "name": "clean-view",
+  "version": "0.1.0",
+  "description": "Hide diffs and tool output on screen; /clean toggles",
+  "author": { "name": "Carl Joakim Damsleth" },
+  "types": "./types/index.d.ts"
+}
