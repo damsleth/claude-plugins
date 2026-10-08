@@ -1,0 +1,11 @@
+{
+  "name": "damsleth",
+  "owner": { "name": "Carl Joakim Damsleth" },
+  "plugins": [
+    {
+      "name": "clean-view",
+      "source": "./plugins/clean-view",
+      "description": "Hide diffs and tool output on screen; /clean toggles"
+    }
+  ]
+}

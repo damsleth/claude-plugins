@@ -1,0 +1,1 @@
+{ "name": "clean-view", "version": "0.1.0", "description": "Hide diffs and tool output on screen; /clean toggles", "types": "./types/index.d.ts" }
