@@ -9,6 +9,17 @@
       "name": "clean-view",
       "source": "./plugins/clean-view",
       "description": "Hide diffs and tool output on screen; /clean toggles"
+    },
+    {
+      "name": "skills",
+      "source": {
+        "source": "github",
+        "repo": "damsleth/SKILLS"
+      },
+      "skills": [
+        "."
+      ],
+      "description": "Agent skills: notes, daily note, meetings, owa-tools M365, todo, now, repo routines, voice and more"
     }
   ]
 }
